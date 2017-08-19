@@ -1,0 +1,10 @@
+name: SiloCord
+version: 1.0
+author: Siloks
+main: de.siloks.silocloud.main.SiloCord
+
+commands:
+  silocloud:
+  cloud:
+  bungee:
+  toCloud:
